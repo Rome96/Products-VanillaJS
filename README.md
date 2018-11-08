@@ -1,5 +1,5 @@
-
-_vanillaJS_
+## Descripción
+_ Listar product - vanillaJS_
 
 ### Construido con: 📋
 
