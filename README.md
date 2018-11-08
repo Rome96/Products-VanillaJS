@@ -1,5 +1,5 @@
 
-_CRUD hecho con vanillaJS_
+_vanillaJS_
 
 ### Construido con: 📋
 
